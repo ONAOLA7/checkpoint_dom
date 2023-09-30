@@ -1,0 +1,110 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+
+h1{
+    color: white;
+    margin-top: 10px;
+    margin-bottom:10px;
+    padding-left: 20px;
+    
+}
+
+.heading{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: greenyellow;
+    margin-bottom: 40px;
+    
+}
+.input1 > .new_input{
+    width:100%;
+}  
+
+.container{
+    border: solid 1px;
+    margin: 0 auto;
+    width:80%
+    
+}
+
+.one-container{
+    display:flex;
+    align-items: center;
+    margin:20px 20px;
+}
+
+.submit_btn{
+    background-color: black;
+    border: 0px;
+    color: floralwhite;
+    padding: 5px 5px;
+    margin-left:20px;
+}
+
+.container1{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    border:1px solid green;
+    margin:20px;
+    padding:10px;
+    
+       
+}
+
+.container2{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    border:1px solid green;
+    margin:20px;
+    padding:10px;
+}
+
+.container3{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    border:1px solid green;
+    margin:20px;
+   padding:10px;
+}
+
+.container4{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    border:1px solid green;
+    margin:20px;
+    padding:10px;
+
+    
+
+       
+
+}
+
+
+}
+
+
+
+
+.new_input{
+    padding: 8px;
+   
+}
+#service{
+    width: 100%;
+}
+
+
+
+
+
